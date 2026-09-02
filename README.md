@@ -29,6 +29,8 @@ put together is worth about half a point on top. The one genuinely valuable hype
 was data augmentation. Cost function, activation and layer sizes each moved the result by
 less than the noise floor (see [Tuning notes](#tuning-notes)).
 
+![Validation accuracy per epoch](docs/learning_curves.png)
+
 ## Layout
 
 ```
